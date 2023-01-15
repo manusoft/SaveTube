@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SaveTube (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SaveTube (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
